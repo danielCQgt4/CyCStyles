@@ -24221,6 +24221,10 @@ html, body {
     color: #343a40;
 }
 
+.table-stride tr:nth-child(even){
+    background-color: #e9ecef;
+}
+
 .table-dark thead th, .table-dark tbody td {
     padding: 12px;
 }
